@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.authPageContainer {
+  height: 100vh;
+  background-image: url("/Image.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  font-weight: bold;
+}
